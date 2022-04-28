@@ -1,2 +1,3 @@
 # Etlap
-Vizsgafeladat
+Szoftverüzemeltető gyakorlati vizsgafeladat
+https://infojegyzet.hu/vizsgafeladatok/gyakvizsga/
